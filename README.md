@@ -1,1 +1,1 @@
-# jQuery-demo
+# 一些基于jQuery的插件
